@@ -40,4 +40,4 @@ source .venv/bin/activate
 ```python
 streamlit run unit_converter.py
 ```
-*_🎉 That’s it! Your Unit Converter is ready to use 🚀*_
+*🎉 That’s it! Your Unit Converter is ready to use 🚀*
