@@ -54,4 +54,4 @@ uv run python todo.py complete 1
 ```python
 uv run python todo.py remove 1
 ```
-🎉 That's it! Your To-Do CLI is ready to use. 🚀
+*🎉 That's it! Your To-Do CLI is ready to use. 🚀*
